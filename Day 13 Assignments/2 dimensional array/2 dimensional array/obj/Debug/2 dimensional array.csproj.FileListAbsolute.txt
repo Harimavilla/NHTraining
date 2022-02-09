@@ -1,0 +1,8 @@
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\bin\Debug\2 dimensional array.exe.config
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\bin\Debug\2 dimensional array.exe
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\bin\Debug\2 dimensional array.pdb
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\obj\Debug\2 dimensional array.csproj.AssemblyReference.cache
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\obj\Debug\2 dimensional array.csproj.SuggestedBindingRedirects.cache
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\obj\Debug\2 dimensional array.csproj.CoreCompileInputs.cache
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\obj\Debug\2 dimensional array.exe
+D:\NB ASSIGNMENTS\Day 13 Assignments\2 dimensional array\2 dimensional array\obj\Debug\2 dimensional array.pdb
