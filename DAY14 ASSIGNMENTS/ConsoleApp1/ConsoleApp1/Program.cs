@@ -6,10 +6,31 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+     sealed class Police
     {
-        static void Main(string[] args)
+        public static int Helpline = 100;
+
+        public string Getsecret()
         {
+            return "007";
         }
-    }
-}
+        
+        
+            internal class program
+            {
+                static void Main(string[]args)
+                {
+               Police P = new Police();
+                  
+                Console.WriteLine(P.Getsecret());
+                Console.WriteLine(Police.Helpline);
+                Console.ReadLine();
+                    
+                }
+            }
+        }
+        
+
+        }
+    
+

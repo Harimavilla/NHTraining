@@ -1,0 +1,8 @@
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\obj\Debug\Console. print 1 to.csproj.AssemblyReference.cache
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\obj\Debug\Console. print 1 to.csproj.SuggestedBindingRedirects.cache
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\obj\Debug\Console. print 1 to.csproj.CoreCompileInputs.cache
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\bin\Debug\Console.print_1_to.exe.config
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\bin\Debug\Console.print_1_to.exe
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\bin\Debug\Console.print_1_to.pdb
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\obj\Debug\Console.print_1_to.exe
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\Console. print 1 to\Console. print 1 to\obj\Debug\Console.print_1_to.pdb

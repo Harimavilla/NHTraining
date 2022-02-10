@@ -1,0 +1,8 @@
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\NB Trainings\NHTraining\DAY14 ASSIGNMENTS\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
