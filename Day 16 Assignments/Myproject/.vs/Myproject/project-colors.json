@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aaf8f4d8-6e9f-45d4-a9bd-dcc0a3c384cc": {
+      "ProjectGuid": "aaf8f4d8-6e9f-45d4-a9bd-dcc0a3c384cc",
+      "DisplayName": "chandana library",
+      "ColorIndex": 0
+    },
+    "d9bda19e-3272-421f-9124-c7490d67a9d8": {
+      "ProjectGuid": "d9bda19e-3272-421f-9124-c7490d67a9d8",
+      "DisplayName": "public library",
+      "ColorIndex": 1
+    },
+    "a8243838-a51e-4495-b29d-784fea3d0e1a": {
+      "ProjectGuid": "a8243838-a51e-4495-b29d-784fea3d0e1a",
+      "DisplayName": "client app",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

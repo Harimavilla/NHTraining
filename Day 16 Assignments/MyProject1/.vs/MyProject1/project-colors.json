@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07423b45-5707-4d87-b9ab-399d18ce142e": {
+      "ProjectGuid": "07423b45-5707-4d87-b9ab-399d18ce142e",
+      "DisplayName": "ChandanaMLibrary",
+      "ColorIndex": 0
+    },
+    "1b5d6234-3397-4168-8481-34f61e85037a": {
+      "ProjectGuid": "1b5d6234-3397-4168-8481-34f61e85037a",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "4a861b9a-d4b1-4829-a6b7-ce4946e2357c": {
+      "ProjectGuid": "4a861b9a-d4b1-4829-a6b7-ce4946e2357c",
+      "DisplayName": "CleintApp",
+      "ColorIndex": 2
+    },
+    "ae48ba71-9bd6-46b3-8576-5a55086c48bc": {
+      "ProjectGuid": "ae48ba71-9bd6-46b3-8576-5a55086c48bc",
+      "DisplayName": "CleintApp1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,5 @@
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\chandana library\bin\Debug\chandana library.dll
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\chandana library\bin\Debug\chandana library.pdb
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\chandana library\obj\Debug\chandana library.csproj.CoreCompileInputs.cache
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\chandana library\obj\Debug\chandana library.dll
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\chandana library\obj\Debug\chandana library.pdb

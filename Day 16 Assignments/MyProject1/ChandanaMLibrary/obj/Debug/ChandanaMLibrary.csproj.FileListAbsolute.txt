@@ -1,0 +1,6 @@
+D:\NB Trainings\NHTraining\Day 16 Assignments\MyProject1\ChandanaMLibrary\bin\Debug\ChandanaMLibrary.dll
+D:\NB Trainings\NHTraining\Day 16 Assignments\MyProject1\ChandanaMLibrary\bin\Debug\ChandanaMLibrary.pdb
+D:\NB Trainings\NHTraining\Day 16 Assignments\MyProject1\ChandanaMLibrary\obj\Debug\ChandanaMLibrary.csproj.CoreCompileInputs.cache
+D:\NB Trainings\NHTraining\Day 16 Assignments\MyProject1\ChandanaMLibrary\obj\Debug\ChandanaMLibrary.dll
+D:\NB Trainings\NHTraining\Day 16 Assignments\MyProject1\ChandanaMLibrary\obj\Debug\ChandanaMLibrary.pdb
+D:\NB Trainings\NHTraining\Day 16 Assignments\MyProject1\ChandanaMLibrary\obj\Debug\ChandanaMLibrary.csproj.AssemblyReference.cache

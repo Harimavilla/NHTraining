@@ -1,0 +1,3 @@
+D:\NB Trainings\NHTraining\Day 16 Assignments\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\NB Trainings\NHTraining\Day 16 Assignments\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\NB Trainings\NHTraining\Day 16 Assignments\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache

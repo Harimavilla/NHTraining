@@ -1,0 +1,5 @@
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\public library\bin\Debug\public library.dll
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\public library\bin\Debug\public library.pdb
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\public library\obj\Debug\public library.csproj.CoreCompileInputs.cache
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\public library\obj\Debug\public library.dll
+D:\NB Trainings\NHTraining\Day 16 Assignments\Myproject\public library\obj\Debug\public library.pdb
