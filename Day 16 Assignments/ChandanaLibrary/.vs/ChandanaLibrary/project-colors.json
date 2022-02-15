@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1512e5b-eb2e-401e-af2d-59dc22ce9419": {
+      "ProjectGuid": "e1512e5b-eb2e-401e-af2d-59dc22ce9419",
+      "DisplayName": "ChandanaLibrary",
+      "ColorIndex": 0
+    },
+    "e78d3fab-605f-404a-800c-91c84007f023": {
+      "ProjectGuid": "e78d3fab-605f-404a-800c-91c84007f023",
+      "DisplayName": "Day16Assignments",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
